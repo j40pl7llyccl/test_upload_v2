@@ -1,0 +1,31 @@
+[System.Text.Json: 9.0.2]
+Installing:
+
+System.Buffers.4.5.1
+System.Numerics.Vectors.4.5.0
+System.Runtime.CompilerServices.Unsafe.6.0.0
+System.Memory.4.5.5
+System.Text.Encodings.Web.9.0.2
+System.Threading.Tasks.Extensions.4.5.4
+Microsoft.Bcl.AsyncInterfaces.9.0.2
+System.IO.Pipelines.9.0.2
+System.ValueTuple.4.5.0
+System.Text.Json.9.0.2
+
+[Sqlite]
+Dapper v2.1.66
+System.Sqlite v1.0.119
+EntityFramework v6.4.4
+
+Drapper
+EntityFramework
+EntityFramework.SqlServer
+Microsoft.Bcl.AsyncInterfaces
+System.Buffers
+System.Data.SQLite
+System.Data.SQLite.EF6
+System.Data.SQLite.Linq
+System.Memory
+System.Numerics.Vectors
+System.Runtime.CompilerServices.Unsafe
+System.Threading.Tasks.Extensions

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataCarrier>
+  <Element>
+    <TypeName>System.String[]</TypeName>
+    <Data>&lt;?xml version="1.0"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;InSeconds&lt;/string&gt;
+  &lt;string&gt;InMinute&lt;/string&gt;
+  &lt;string&gt;LongPeriod&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Data>
+  </Element>
+  <Element>
+    <TypeName>uIP.MacroProvider.Commons.CronJob.KeepingScheduleInfo[]</TypeName>
+    <Data>&lt;?xml version="1.0"?&gt;
+&lt;ArrayOfKeepingScheduleInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" /&gt;</Data>
+  </Element>
+  <Element>
+    <TypeName>uIP.MacroProvider.Commons.CronJob.KeepingScheduleInfo[]</TypeName>
+    <Data>&lt;?xml version="1.0"?&gt;
+&lt;ArrayOfKeepingScheduleInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" /&gt;</Data>
+  </Element>
+  <Element>
+    <TypeName>uIP.MacroProvider.Commons.CronJob.KeepingScheduleInfo[]</TypeName>
+    <Data>&lt;?xml version="1.0"?&gt;
+&lt;ArrayOfKeepingScheduleInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;KeepingScheduleInfo&gt;
+    &lt;RenewWay&gt;ByDay&lt;/RenewWay&gt;
+    &lt;ExceptCount&gt;-1&lt;/ExceptCount&gt;
+    &lt;NumberScales&gt;7&lt;/NumberScales&gt;
+    &lt;ScheduleAt&gt;2025-03-18T09:45:48.7158177+08:00&lt;/ScheduleAt&gt;
+    &lt;WhichPlugin&gt;uIP.MacroProvider.YZW.SOP.Communication.uProviderSopCommunication&lt;/WhichPlugin&gt;
+    &lt;WhichPluginClassFunc&gt;RegularlyClearDb&lt;/WhichPluginClassFunc&gt;
+    &lt;FuncArgs /&gt;
+  &lt;/KeepingScheduleInfo&gt;
+&lt;/ArrayOfKeepingScheduleInfo&gt;</Data>
+  </Element>
+</DataCarrier>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataCarrier>
+  <Element>
+    <TypeName>System.String[]</TypeName>
+    <Data>&lt;?xml version="1.0"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;﻿&amp;lt;?xml version="1.0" encoding="utf-8"?&amp;gt;
+&amp;lt;DataCarrier&amp;gt;
+  &amp;lt;Element&amp;gt;
+    &amp;lt;TypeName&amp;gt;System.String&amp;lt;/TypeName&amp;gt;
+    &amp;lt;Data&amp;gt;&amp;amp;lt;?xml version="1.0"?&amp;amp;gt;
+&amp;amp;lt;string&amp;amp;gt;Language&amp;amp;lt;/string&amp;amp;gt;&amp;lt;/Data&amp;gt;
+  &amp;lt;/Element&amp;gt;
+&amp;lt;/DataCarrier&amp;gt;&lt;/string&gt;
+  &lt;string&gt;﻿&amp;lt;?xml version="1.0" encoding="utf-8"?&amp;gt;
+&amp;lt;DataCarrier&amp;gt;
+  &amp;lt;Element&amp;gt;
+    &amp;lt;TypeName&amp;gt;System.String&amp;lt;/TypeName&amp;gt;
+    &amp;lt;Data&amp;gt;&amp;amp;lt;?xml version="1.0"?&amp;amp;gt;
+&amp;amp;lt;string&amp;amp;gt;en&amp;amp;lt;/string&amp;amp;gt;&amp;lt;/Data&amp;gt;
+  &amp;lt;/Element&amp;gt;
+&amp;lt;/DataCarrier&amp;gt;&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Data>
+  </Element>
+</DataCarrier>
