@@ -104,7 +104,7 @@ namespace uIP.MacroProvider.StreamIO.VideoInToFrame
                 try
                 {
                     // 假設 videoExtractor 已經實例化並具備 ProcessVideos 方法
-                    videoExtractor.ProcessVideos(textBoxPickedDir.Text, outputFolder, intervalSeconds, MacroInstance);
+                    videoExtractor.StartConvertByCode(textBoxPickedDir.Text, intervalSeconds, MacroInstance);
                     // 取得指定目錄下所有檔案
                     //string[] videofiles = Directory.GetFiles(textBoxPickedDir.Text);
                     // 呼叫修改後的 writeTimestampToini 方法處理所有影片
